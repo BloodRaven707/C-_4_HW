@@ -19,7 +19,7 @@
 
 
         /// <summary>
-        /// Принимает: Строку из чисел
+        /// Принимает: Целое число
         /// Возвращает: Сумму чисел в строке
         /// </summary>
         public static int SumDigitInRow(int someDigit) {
